@@ -1,0 +1,12 @@
+.trade-button-add {
+    --color: black;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+  }
+
+  .trade-button-remove {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+  }
